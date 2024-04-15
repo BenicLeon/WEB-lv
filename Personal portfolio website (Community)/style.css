@@ -1,0 +1,285 @@
+*{
+    font-family: "Roboto", sans-serif;
+    
+}
+.container{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items:center ;
+    margin-bottom:100px ;
+}
+li{
+list-style: none;
+}
+#logo{
+   margin: 20px;
+   margin-left: 100px;
+    width: 140px;
+    height: 30px;
+}
+li a:hover{
+    color: #5E3BEE;
+}
+li:first-child{
+    color: #5E3BEE;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight:400 ;
+    
+}
+#btn{
+    background-color: white;
+    padding: 14px, 32px, 14px, 32px;
+    color:#5E3BEE;
+    width: 128px;
+    height: 52px;
+    border-radius: 4px;
+    border-color: #5E3BEE;
+    margin-right: 50px;
+    
+   
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    justify-content: space-between;
+    gap: 32px;
+    margin: 20px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 23px;
+    background-color:  #F5FCFF;
+    margin-bottom: 50px;
+
+}
+.header-container h3{
+    
+    line-height: 32px;
+    font-size: 21.33px;
+    font-weight: 600;
+   
+}
+.header-container h1{
+    
+    line-height: 32px;
+    font-size: 74.67px;
+    font-weight: 700;
+    
+}
+.header-container span{
+    
+    line-height: 32px;
+    font-size: 74.67px;
+    font-weight: 700;
+    color:#5E3BEE;
+}
+.header-container h2{
+    
+    line-height: 36px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #1C1E53;
+}
+.header-container button{
+   
+    padding: 18.67px 42.67px 18.67px 42.67px;
+    gap: 10.67px;
+    border-radius: 5.33px 0px 0px 0px;
+    opacity: 0px;
+    background: #5E3BEE;
+    color: white;
+    width: Fixed (170.67px)px;
+    height: Hug (69.33px)px;
+
+
+    
+}
+.header-container img{
+    width: 917.33px;
+height: 729.74px;
+gap: 0px;
+opacity: 0px;
+
+}
+.div1{
+    margin-left: 50px;
+}
+.main-container p{
+    
+font-size: 21.33px;
+font-weight: 600;
+line-height: 32px;
+text-align: center;
+
+}
+.header-container h1{
+   
+font-size: 64px;
+font-weight: 700;
+line-height: 76.8px;
+text-align: left;
+
+}
+.main-container{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.main-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap:32px;
+}
+.main-flex div{
+width: 405.33px;
+height: 370.33px;
+padding: 32px 0px 0px 0px;
+gap: 32px;
+border-radius: 10.67px 0px 0px 0px;
+border: 0px 0px 4px 0px;
+opacity: 0px;
+background: #F5FCFF;
+
+
+}
+.box{
+    width: 80px;
+height: 80px;
+padding: 13.33px 0px 0px 0px;
+gap: 13.33px;
+border-radius: 10.67px 0px 0px 0px;
+opacity: 0px;
+
+}
+.box img{
+    width: 53.33px;
+height: 53.33px;
+background-color: white;
+
+
+}
+.box h2{ 
+font-size: 32px;
+font-weight: 700;
+line-height: 44.8px;
+text-align: left;
+
+}
+.box p{
+font-size: 21.33px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color:  #1C1E53;
+
+}
+.header-container2{
+    display: flex;
+    justify-content: space-between;
+    gap: 23px;
+    margin-bottom: 50px;
+    margin-top: 200px;
+
+}
+
+.header-container2 h1{
+    
+   
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 76.8px;
+    text-align: left;
+    
+    
+}
+.header-container2 p{
+    
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+text-align: left;
+color: #1C1E53;
+
+}
+
+.header-container2 h3{
+    
+    
+font-size: 21.33px;
+font-weight: 600;
+line-height: 32px;
+text-align: left;
+
+}
+
+.header-container2 img{
+width: 813.33px;
+height: 996px;
+
+}
+.div1{
+    margin-top:200px ;
+}
+.main-container2{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-top: 200px;
+}
+.main-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap:32px;
+}
+.main-flex div{
+width: 405.33px;
+height: 370.33px;
+padding: 32px 0px 0px 0px;
+gap: 32px;
+border-radius: 10.67px 0px 0px 0px;
+border: 0px 0px 4px 0px;
+opacity: 0px;
+background: #F5FCFF;
+
+
+}
+.box{
+    width: 80px;
+height: 80px;
+padding: 13.33px 0px 0px 0px;
+gap: 13.33px;
+border-radius: 10.67px 0px 0px 0px;
+opacity: 0px;
+
+}
+.box img{
+    width: 53.33px;
+height: 53.33px;
+background-color: white;
+
+
+}
+.box h2{ 
+font-size: 32px;
+font-weight: 700;
+line-height: 44.8px;
+text-align: left;
+
+}
+.box p{
+font-size: 21.33px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color:  #1C1E53;
+
+}
